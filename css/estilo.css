@@ -2,8 +2,17 @@ body {
   background-image: url(../imagens/fundo.png);
 }
 
+/* conteudos */
+section#conteudo {
+  background: #fff;
+}
+
 .divisor {
   width: 1px;
   background: #fff;
   margin: 10px 0px;
+}
+
+p{
+  text-align: justify;
 }
