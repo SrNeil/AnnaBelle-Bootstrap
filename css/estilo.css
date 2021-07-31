@@ -17,21 +17,28 @@ footer {
 }
 
 /* tipografia */
+h1{
+  color: #828271;
+  font-size: 1.5em;
+}
+
 h3 {
   text-align: center;
+  font-size: 1.2em;
 }
 
 p{
   text-align: justify;
+  font-size: 1em;
 }
 
-navbar-dark .navbar-nav .nav-link {
+.navbar-dark .navbar-nav .nav-link {
   color: #4b566a;
 }
 
 /* navbar */
 .divisor {
   width: 1px;
-  background: #fff;
+  background: #4b566a;
   margin: 10px 0px;
 } 
