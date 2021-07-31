@@ -32,13 +32,22 @@ p{
   font-size: 1em;
 }
 
-.navbar-dark .navbar-nav .nav-link {
-  color: #4b566a;
-}
-
 /* navbar */
 .divisor {
   width: 1px;
   background: #4b566a;
   margin: 10px 0px;
 } 
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #4b566a;
+}
+
+img.capa {
+  width: 100%;
+}
+
+img.campanha {
+  border: 10px solid #c3c3ae;
+  margin: 10px auto;
+}
