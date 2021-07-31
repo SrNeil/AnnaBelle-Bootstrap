@@ -2,17 +2,36 @@ body {
   background-image: url(../imagens/fundo.png);
 }
 
-/* conteudos */
-section#conteudo {
-  background: #fff;
+/* Estrutura */
+header {
+  background-color: #c5c5b2;
 }
 
-.divisor {
-  width: 1px;
-  background: #fff;
-  margin: 10px 0px;
+section#conteudo {
+  background: #e8e8d9;
+  padding: 10px;
+}
+
+footer {
+  padding: 10px;
+}
+
+/* tipografia */
+h3 {
+  text-align: center;
 }
 
 p{
   text-align: justify;
 }
+
+navbar-dark .navbar-nav .nav-link {
+  color: #4b566a;
+}
+
+/* navbar */
+.divisor {
+  width: 1px;
+  background: #fff;
+  margin: 10px 0px;
+} 
